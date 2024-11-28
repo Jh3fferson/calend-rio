@@ -1,4 +1,4 @@
-// Dados dos eventos
+// Dados dos eventosssss
 const events = [
     { aluno: "João", curso: "Matemática", sala: "101", data: "2024-11-21", hora: "08:00 - 10:00", cor: "matematica" },
     { aluno: "Maria", curso: "História", sala: "102", data: "2024-11-21", hora: "10:00 - 12:00", cor: "historia" },
